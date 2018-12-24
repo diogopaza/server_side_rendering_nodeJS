@@ -11,4 +11,5 @@ e renderizá-los como estático do lado servidor.</p>
 começa a baixar os JS e logo em seguida execut o REACT para então a página ser exibida, já o SSR que estamos estudando o servidor já envia a página renderizada para o cliente. </p>
 
 
-<p>Instalar o React npm install react react-dom next</p>
+<h3>Instalação via NPM</h3>
+<p>npm install --save next react react-dom</p>
