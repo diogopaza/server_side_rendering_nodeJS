@@ -12,4 +12,7 @@ começa a baixar os JS e logo em seguida execut o REACT para então a página se
 
 
 <h3>Instalação via NPM</h3>
-<p>npm install --save next react react-dom</p>
+<p><strong>npm install --save next react react-dom</strong></p>
+<p>O Next trabalha com uma estrutura básica para criação de pasta com roteamento simples, toda
+página deverá ser criada dentro de um diretório chamado pages e qualquer página criada dentro desse diretório 
+já será acessada pelo nome colocado, devido ao roteamento baseado em estrutura de aruivo.</p>

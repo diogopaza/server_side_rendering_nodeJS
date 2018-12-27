@@ -1,6 +1,13 @@
 import React from 'react';
 
-export default () =>(
-
-    <h1>Hello dev</h1>
-) 
+const Index = () => {
+    return (
+      <div>
+        <h1>Home</h1>
+  
+        <p>Lorem ipsum, dolor sit amet consectetur adipiendi iure a odit, fugit reiciendis nat</p>
+      </div>
+    );
+  };
+  
+  export default Index;
